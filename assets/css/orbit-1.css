@@ -10,7 +10,9 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
-  background: #f5f5f5;
+  background: #AAAAAA;
+  /*background-image:url(../);*/
+  background-repeat: repeat;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
